@@ -1,3 +1,3 @@
 # githubworkshop
 24-26 March github workshop
-by Balaji Singnath
+<br> by Martand Yadav
